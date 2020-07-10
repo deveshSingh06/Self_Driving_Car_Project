@@ -14,8 +14,7 @@ A self driving car has been implemented in this repository using Convolution Neu
     - 45,406 front camera view images
       - Each image contains the steering angle
 - To build this project, we build a Convolution Neural Network, a deep learning architecture, model.
-- Using this model, the computer predicts the steering angle to avoid all sorts of collisions.
+- Using this model, the computer predicts the steering angle to avoid all sorts of collisions. <br>
 
-- <img src="car.gif">
-
+<img src="car.gif">
 
