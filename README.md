@@ -1,8 +1,8 @@
-# <center>Self Driving Car Project </center>
+# <div align="center">Self Driving Car Project </div>
 A self driving car has been implemented in this repository using Convolution Neural Network, a deep learning architecture, model.
 
 <img src="https://www.nvidia.com/content/dam/en-zz/es_em/Solutions/self-driving-cars/home/nvidia-self-driving-car-drive-px-overview-social-image.jpg">
-<center>***Credits to the owner of the image***</center>
+<div align="center">*Credits to the owner of the image*</div>
 
 
 ## About The Self Driving Car Project
