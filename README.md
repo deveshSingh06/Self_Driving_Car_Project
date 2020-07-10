@@ -16,4 +16,6 @@ A self driving car has been implemented in this repository using Convolution Neu
 - To build this project, we build a Convolution Neural Network, a deep learning architecture, model.
 - Using this model, the computer predicts the steering angle to avoid all sorts of collisions.
 
+- <img src="car.gif">
+
 
