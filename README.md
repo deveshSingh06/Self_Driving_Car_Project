@@ -17,13 +17,3 @@ A self driving car has been implemented in this repository using Convolution Neu
 - Using this model, the computer predicts the steering angle to avoid all sorts of collisions.
 
 
-### Additional Information
-
--  This larger dataset (70 minutes of data ~ 223GB) could also be taken to implement a self driving car:
-
-    - Refer to this [Medium post](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5)
-    - Youtube [video](https://www.youtube.com/watch?v=qhUvQiKec2U)
-    - Further reading and extensions: [here](https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c)
-    - More data: [here](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5)
-    - Research paper: [End to End Learning for Self-Driving Cars by Nvidia](https://arxiv.org/pdf/1604.07316.pdf)
-
